@@ -2,3 +2,4 @@ requests
 colorama
 art
 pyfiglet
+beautifulsoup4
